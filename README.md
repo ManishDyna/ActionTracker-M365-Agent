@@ -92,7 +92,7 @@ update them, delete them, and receive an automated **daily digest** of status an
 
 ## Demo
 
-Demo video: **[ADD YOUR VIDEO LINK HERE]**
+Demo video: **https://vimeo.com/1201315651?share=copy&fl=sv&fe=ci**
 
 Example flow shown in the demo:
 1. Agent surfaces a commitment from a real email via Work IQ and proposes a task.
